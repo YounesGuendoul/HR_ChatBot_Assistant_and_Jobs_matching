@@ -1,0 +1,59 @@
+À propos de l’offre d’emploi
+Joining Cnexia is choosing to be part of an ambitious project that values Innovation, promotes Continuous Learning, and enables all tech champions to fulfill their creative dreams.
+
+
+At Cnexia, we do more than support the clients of our world-class network and services. We develop innovative solutions and create original multiplatform media content. In fact, we’re revolutionizing how Canadians communicate on the web, interact with Mobile Apps or benefit from an AI-enhanced experience.
+
+
+Proud of our status as a fully owned Moroccan subsidiary of the largest Canadian Telecom company, we have been ceaselessly growing our team since 2021. With over 1100 employees, mainly based in Fez, we have expanded in the northern region of the kingdom with our Brand-new state-of-the-art site in Technopolis Rabat.
+
+
+If you are ready for this challenge, we invite you to join a community that values bold ideas and professional growth all in an engaging multicultural world-class environment.
+
+
+Job Duties/Accountabilities:
+
+
+Coordinating with development teams to determine application requirements.
+Writing scalable code using Python programming language.
+Integrating data storage solutions.
+Coordinating with front-end developers.
+Experience in Django, APIs, Docker, Linux, AI/ML suits, Building REST or SOAP services
+Knowledge in consuming and parsing the XML payloads
+Strong in data validation, Integration, and End-to-End testing.
+Hand on development experience with the ELK stack – Elastic, Logstash and Kibana
+Working experience in preparing pipelines to ingest data from systems of record
+Working experience in the ELK stack – Elastic, Logstash and Kibana
+Some knowledge on Java development and ETL tools (SSIS or similar tools)
+Working knowledge of API development.
+Working knowledge of Unix shell
+Autonomous and fast learner Roles and Responsibilities
+Deliver applications and features identified within your squad
+Document the work done within the application
+Good expertise with Test Driven Development
+Knowledge in IT Security (SSDLC)
+Ability to create clear documentation that synthesizes the technical and business aspects of any problem
+Critical thinker – demonstrated ability to tackle complex problems effectively and to take a higher-level view
+Avid learner – continuous learner of all things technical and process
+Team player – ability to work with a wide range of geographically distributed teammates
+Great communicator – ability to communicate effectively at all levels of the organization
+Focus driven – ability to manage stress and pressure in a collaborative environment
+Transformational agent – agile and ability to mobilize resources and execute on critical initiatives needed to transform our business
+
+Critical Qualifications/Competencies:
+
+
+Very good oral and written English.
+University degree in Software/Computer/Electrical Engineering/IT.
+Solid experience of atleast 3-5 years in Python programming
+Fundamentals of Machine learning/ AI.
+Expereience on Python web frameworks and event-driven programming in Python
+Experience in ORM libraries
+Experience in working with various design patterns
+Experience with DevOps tools
+Familiar with Agile delivery process
+
+Nice to have:
+
+
+SAS Certified Base / Advanced Programmer Certification

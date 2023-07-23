@@ -1,0 +1,54 @@
+prompt: extract only the skills of the condidate, it should be in one sentence seperated by commas, no additional text
+
+
+
+
+
+
+
+
+
+MISSION
+
+Le/la Data Scientist a pour but de valoriser et d’exploiter pleinement le gisement de données de l’entreprise et d’en démocratiser / généraliser l’usage dans des approches « ROIstes » à forte valeur ajoutée en utilisant des mécanismes algorithmiques statistiques innovants (Machine learning) et des technologies adpatés.
+
+ACTIVITES PRINCIPALES
+Participer à toutes les étapes de production des use cases de data science / IA : découverte, collecte, préparation et nettoyage des données, visualisation des données – Création et déploiement des modèles
+Participer à l'élaboration des modèles d'apprentissage automatique, afin d'améliorer l'expérience client (regroupement, régression)
+Participer à la déclinaison de la gouvernance AI groupe au sein de la banque
+Participer à la détection des nouvelles tendances en termes d’usages et de nouvelles technologies
+Collecter des idées soumises par l’interne en échangeant avec les métiers – marketing, risques, opérations, etc. ou l’externe (e.g. via des plateformes d’Open Data)
+Contribuer à catalyser le traitement d’idées recensées
+Explorer des idées en termes d’appétences client / métiers et de faisabilité technique
+Participer à la mise en œuvre des idées au travers de Proofs of Concept auprès de clients internes ou de panels utilisateurs
+Etre un acteur innovant à la fois en interne au sein de la BMCI et externe au sein du Groupe.
+Etre à l’écoute des métiers, n’hésite pas à proposer des améliorations pour faire évoluer les pratiques.
+Accepter de se former régulièrement sur les sujets / outils liés au monde de la data science qui s’enrichit constamment des communautés Data
+
+Livrables
+Réalisation des uses case Data
+Elaboration des modèles Data
+Restitution des analyses de données
+Documentation relative aux travaux réalisés
+
+COMPETENCES TECHNIQUES
+Connaissance en matière de la Data
+Forte connaissance en algorithmes du Machine Learning
+Forte capacité à tirer parti du machine Learning et de l’AI
+Maitrise des librairies de Data Science en Python (Pandas, Numpy, Sklearn, Tensorflow, Keras,...)
+Forte capacité à préparer les données pour des analyses efficaces
+Forte capacité à écrire du code efficace et pérenne (Python)
+Qualité et sécurité des données
+Visualisation des données (Tableau, Seaborn, Matplotlib,..)
+Forte connaissance de la méthodologie Agile
+
+COMPETENCES COMPORTEMENTALES
+Esprit critique
+Communication efficace
+Approche proactive de la résolution des problèmes
+Curiosité intellectuelle
+Sensibilité métier
+
+#Talent Wanted :
+
+De formation BAC+5 en école d’ingénieur /commerce, vous avez une forte orientation client et résultat, vous êtes force de proposition et appréciez le travail en équipe. Vous avez une réelle appétence de porter des sujets structurants à échelle internationale. Votre rigueur, votre enthousiasme, votre esprit d'initiative alliés à votre capacité d’analyse et à votre capacité d'adaptation seront les garants de votre réussite à ce poste.
